@@ -14,3 +14,4 @@ To build, simply:
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
+[![Build Status](https://dev.azure.com/azdevopsfan2023022/Configuring%20Agent%20Pools%20and%20Understanding%20Pipeline%20Styles/_apis/build/status/azdevopsfan2023022.calculator?branchName=refs%2Fpull%2F3%2Fmerge)](https://dev.azure.com/azdevopsfan2023022/Configuring%20Agent%20Pools%20and%20Understanding%20Pipeline%20Styles/_build/latest?definitionId=5&branchName=refs%2Fpull%2F3%2Fmerge)
